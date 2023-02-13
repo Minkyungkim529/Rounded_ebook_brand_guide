@@ -2,3 +2,15 @@
 body{
     background-image: url(../pics/ebook_bg-35.png);
 }
+div img{
+  margin:0 auto;
+  display: block;
+}
+.fixed{
+  position: fixed;
+  right:50px;
+  bottom:100px;
+}
+.fixed:hover{
+  opacity:0.8;
+}
